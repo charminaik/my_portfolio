@@ -98,7 +98,9 @@ p {
 .contact-item:hover {
   transform: translateX(10px);
 }
-
+.ftco-about .col-md-8 p {
+  text-align: justify;
+}
 .icon-box {
   background: #ffbd39;
   color: #fff;
